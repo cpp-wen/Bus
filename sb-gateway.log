@@ -1,0 +1,605 @@
+2021-02-22 09:50:49.128  INFO 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 09:50:49.931  WARN 95735 --- [http-nio-8087-exec-8] c.s.guns.rest.modular.bus.BusController  : getCount
+
+2021-02-22 09:51:03.426  INFO 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCountDetail
+2021-02-22 09:51:03.504  WARN 95735 --- [http-nio-8087-exec-5] c.s.guns.rest.modular.bus.BusController  : getCountDetailById
+
+2021-02-22 09:51:03.532  INFO 95735 --- [http-nio-8087-exec-10] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/file/seat.json
+2021-02-22 09:51:05.874  INFO 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 09:51:05.889  WARN 95735 --- [http-nio-8087-exec-1] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 09:51:08.952  INFO 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoTakeOrders
+2021-02-22 09:51:11.639  INFO 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/user/check
+2021-02-22 09:51:11.942  WARN 95735 --- [http-nio-8087-exec-6] c.s.g.rest.modular.user.UserController   : checkUsername
+2021-02-22 09:51:11.954  INFO 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/auth
+2021-02-22 09:51:12.187  INFO 95735 --- [http-nio-8087-exec-2] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/user/getUserInfo
+2021-02-22 09:51:12.192  INFO 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 09:51:12.198  WARN 95735 --- [http-nio-8087-exec-7] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 09:51:12.230  INFO 95735 --- [http-nio-8087-exec-2] c.s.g.rest.modular.user.UserController   : getUserById
+
+2021-02-22 09:51:15.588  INFO 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 09:51:15.592  WARN 95735 --- [http-nio-8087-exec-9] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 09:51:27.991  INFO 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCountDetail
+2021-02-22 09:51:28.021  WARN 95735 --- [http-nio-8087-exec-8] c.s.guns.rest.modular.bus.BusController  : getCountDetailById->redis
+
+2021-02-22 09:51:43.342  INFO 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 09:51:43.347  WARN 95735 --- [http-nio-8087-exec-5] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 09:51:44.239  INFO 95735 --- [http-nio-8087-exec-10] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCountDetail
+2021-02-22 09:51:44.251  WARN 95735 --- [http-nio-8087-exec-10] c.s.guns.rest.modular.bus.BusController  : getCountDetailById
+
+2021-02-22 09:51:46.223  INFO 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 09:51:46.226  WARN 95735 --- [http-nio-8087-exec-1] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 09:53:00.681  INFO 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 09:53:00.747  WARN 95735 --- [http-nio-8087-exec-3] c.s.guns.rest.modular.bus.BusController  : getCount
+
+2021-02-22 09:53:03.387  INFO 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 09:53:03.390  WARN 95735 --- [http-nio-8087-exec-6] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 09:53:19.124  INFO 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoTakeOrders
+2021-02-22 09:53:19.665  WARN 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.order.OrderController    : getNoTakeOrdersById
+
+2021-02-22 09:53:22.195  INFO 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoPayOrders
+2021-02-22 09:53:22.233  WARN 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.order.OrderController    : getNoPayOrdersById
+
+2021-02-22 09:53:23.168  INFO 95735 --- [http-nio-8087-exec-2] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 09:53:23.170  WARN 95735 --- [http-nio-8087-exec-2] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 09:53:23.949  INFO 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCountDetail
+2021-02-22 09:53:23.951  WARN 95735 --- [http-nio-8087-exec-9] c.s.guns.rest.modular.bus.BusController  : getCountDetailById->redis
+
+2021-02-22 09:53:27.159  INFO 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 09:53:27.160  WARN 95735 --- [http-nio-8087-exec-8] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 09:53:33.509  INFO 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 09:53:33.512  WARN 95735 --- [http-nio-8087-exec-5] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 09:53:34.447  INFO 95735 --- [http-nio-8087-exec-10] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 09:53:34.450  WARN 95735 --- [http-nio-8087-exec-10] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 09:53:35.001  INFO 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCountDetail
+2021-02-22 09:53:35.002  WARN 95735 --- [http-nio-8087-exec-1] c.s.guns.rest.modular.bus.BusController  : getCountDetailById->redis
+
+2021-02-22 09:53:45.595  INFO 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/addOrder
+2021-02-22 09:53:46.624  WARN 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.order.OrderController    : addOrder
+
+2021-02-22 09:53:50.544  INFO 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getOrder
+2021-02-22 09:53:50.678  WARN 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.order.OrderController    : selectOrderById
+
+2021-02-22 09:53:54.409  INFO 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCountDetail
+2021-02-22 09:53:54.425  WARN 95735 --- [http-nio-8087-exec-4] c.s.guns.rest.modular.bus.BusController  : getCountDetailById
+
+2021-02-22 09:53:56.269  INFO 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 09:53:56.282  WARN 95735 --- [http-nio-8087-exec-7] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 09:53:58.002  INFO 95735 --- [http-nio-8087-exec-2] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoTakeOrders
+2021-02-22 09:53:58.012  WARN 95735 --- [http-nio-8087-exec-2] c.s.g.r.modular.order.OrderController    : getNoTakeOrdersById->redis
+
+2021-02-22 09:53:59.086  INFO 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoPayOrders
+2021-02-22 09:53:59.170  WARN 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.order.OrderController    : getNoPayOrdersById
+
+2021-02-22 09:54:01.168  INFO 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getEvaluateOrders
+2021-02-22 09:54:01.212  WARN 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.order.OrderController    : getEvaluateOrders
+
+2021-02-22 09:54:01.749  INFO 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getEvaluateOrders
+2021-02-22 09:54:01.756  WARN 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.order.OrderController    : getEvaluateOrdersById->redis
+
+2021-02-22 09:54:04.028  INFO 95735 --- [http-nio-8087-exec-10] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getOrder
+2021-02-22 09:54:04.042  WARN 95735 --- [http-nio-8087-exec-10] c.s.g.r.modular.order.OrderController    : selectOrderById->redis
+
+2021-02-22 09:54:05.795  INFO 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/updateOrderStatus
+2021-02-22 09:54:06.203  WARN 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.order.OrderController    : updateOrderStatus
+
+2021-02-22 09:54:09.107  INFO 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/updateOrderStatus
+2021-02-22 09:54:09.146  WARN 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.order.OrderController    : updateOrderStatus
+
+2021-02-22 09:54:10.235  INFO 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/updateOrderStatus
+2021-02-22 09:54:10.291  WARN 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.order.OrderController    : updateOrderStatus
+
+2021-02-22 09:54:34.009  INFO 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/pay/
+2021-02-22 09:54:37.198 ERROR 95735 --- [http-nio-8087-exec-4] c.s.g.rest.modular.alipay.PayController  : pay
+
+
+org.apache.dubbo.rpc.RpcException: Failed to invoke the method pay in the service com.stylefeng.guns.rest.alipay.IPayService. Tried 3 times of the providers [192.168.0.106:20884] (1/1) from the registry 127.0.0.1:2181 on the consumer 192.168.0.106 using the dubbo version 2.7.4.1. Last error is: Invoke remote method timeout. method: pay, provider: dubbo://192.168.0.106:20884/com.stylefeng.guns.rest.alipay.IPayService?anyhost=true&application=guns-gateway&bean.name=ServiceBean:com.stylefeng.guns.rest.alipay.IPayService&check=false&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&interface=com.stylefeng.guns.rest.alipay.IPayService&lazy=false&methods=payBack,pay&pid=95735&qos.enable=false&register.ip=192.168.0.106&release=2.7.4.1&remote.application=guns-pay&side=consumer&sticky=false&timestamp=1613871679700, cause: org.apache.dubbo.remoting.TimeoutException: Waiting server-side response timeout by scan timer. start time: 2021-02-22 09:54:36.152, end time: 2021-02-22 09:54:37.171, client elapsed: 0 ms, server elapsed: 1018 ms, timeout: 1000 ms, request: Request [id=5193, version=2.0.2, twoway=true, event=false, broken=false, data=RpcInvocation [methodName=pay, parameterTypes=[class com.stylefeng.guns.rest.alipay.dto.PayRequset], arguments=[PayRequset(userId=4, payPassword=123456, totalMoney=8.0)], attachments={path=com.stylefeng.guns.rest.alipay.IPayService, remote.application=guns-gateway, interface=com.stylefeng.guns.rest.alipay.IPayService, version=0.0.0}]], channel: /127.0.0.1:57798 -> /127.0.0.1:7890
+	at org.apache.dubbo.rpc.cluster.support.FailoverClusterInvoker.doInvoke(FailoverClusterInvoker.java:113) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.cluster.support.AbstractClusterInvoker.invoke(AbstractClusterInvoker.java:248) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.cluster.support.wrapper.MockClusterInvoker.invoke(MockClusterInvoker.java:78) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.proxy.InvokerInvocationHandler.invoke(InvokerInvocationHandler.java:55) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.common.bytecode.proxy0.pay(proxy0.java) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at com.stylefeng.guns.rest.modular.alipay.PayController.pay(PayController.java:71) ~[classes/:na]
+	at com.stylefeng.guns.rest.modular.alipay.PayController$$FastClassBySpringCGLIB$$5f776c55.invoke(<generated>) [classes/:na]
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204) [spring-core-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:747) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at com.alibaba.csp.sentinel.annotation.aspectj.SentinelResourceAspect.invokeResourceWithSentinel(SentinelResourceAspect.java:57) [sentinel-annotation-aspectj-1.7.0.jar:na]
+	at sun.reflect.GeneratedMethodAccessor161.invoke(Unknown Source) ~[na:na]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_271]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_271]
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:644) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:633) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:70) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:174) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:92) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at com.stylefeng.guns.rest.modular.alipay.PayController$$EnhancerBySpringCGLIB$$fc52cb17.pay(<generated>) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_271]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_271]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_271]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_271]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102) [spring-webmvc-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:877) [spring-webmvc-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:783) [spring-webmvc-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991) [spring-webmvc-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925) [spring-webmvc-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974) [spring-webmvc-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:877) [spring-webmvc-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851) [spring-webmvc-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) [tomcat-embed-websocket-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at com.stylefeng.guns.rest.modular.auth.filter.AuthFilter.doFilterInternal(AuthFilter.java:138) [classes/:na]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at com.alibaba.csp.sentinel.adapter.servlet.CommonFilter.doFilter(CommonFilter.java:110) [sentinel-web-servlet-1.7.0.jar:na]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:496) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_271]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_271]
+Caused by: java.util.concurrent.ExecutionException: org.apache.dubbo.remoting.TimeoutException: Waiting server-side response timeout by scan timer. start time: 2021-02-22 09:54:36.152, end time: 2021-02-22 09:54:37.171, client elapsed: 0 ms, server elapsed: 1018 ms, timeout: 1000 ms, request: Request [id=5193, version=2.0.2, twoway=true, event=false, broken=false, data=RpcInvocation [methodName=pay, parameterTypes=[class com.stylefeng.guns.rest.alipay.dto.PayRequset], arguments=[PayRequset(userId=4, payPassword=123456, totalMoney=8.0)], attachments={path=com.stylefeng.guns.rest.alipay.IPayService, remote.application=guns-gateway, interface=com.stylefeng.guns.rest.alipay.IPayService, version=0.0.0}]], channel: /127.0.0.1:57798 -> /127.0.0.1:7890
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:357) ~[na:1.8.0_271]
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1928) ~[na:1.8.0_271]
+	at org.apache.dubbo.rpc.protocol.AsyncToSyncInvoker.invoke(AsyncToSyncInvoker.java:56) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.listener.ListenerInvokerWrapper.invoke(ListenerInvokerWrapper.java:78) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.monitor.support.MonitorFilter.invoke(MonitorFilter.java:92) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.protocol.dubbo.filter.FutureFilter.invoke(FutureFilter.java:54) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.filter.ConsumerContextFilter.invoke(ConsumerContextFilter.java:60) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$CallbackRegistrationInvoker.invoke(ProtocolFilterWrapper.java:157) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.protocol.InvokerWrapper.invoke(InvokerWrapper.java:56) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.cluster.support.FailoverClusterInvoker.doInvoke(FailoverClusterInvoker.java:82) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	... 83 common frames omitted
+Caused by: org.apache.dubbo.remoting.TimeoutException: Waiting server-side response timeout by scan timer. start time: 2021-02-22 09:54:36.152, end time: 2021-02-22 09:54:37.171, client elapsed: 0 ms, server elapsed: 1018 ms, timeout: 1000 ms, request: Request [id=5193, version=2.0.2, twoway=true, event=false, broken=false, data=RpcInvocation [methodName=pay, parameterTypes=[class com.stylefeng.guns.rest.alipay.dto.PayRequset], arguments=[PayRequset(userId=4, payPassword=123456, totalMoney=8.0)], attachments={path=com.stylefeng.guns.rest.alipay.IPayService, remote.application=guns-gateway, interface=com.stylefeng.guns.rest.alipay.IPayService, version=0.0.0}]], channel: /127.0.0.1:57798 -> /127.0.0.1:7890
+	at org.apache.dubbo.remoting.exchange.support.DefaultFuture.doReceived(DefaultFuture.java:189) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.remoting.exchange.support.DefaultFuture.received(DefaultFuture.java:153) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.remoting.exchange.support.DefaultFuture$TimeoutCheckTask.run(DefaultFuture.java:258) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.common.timer.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:648) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.common.timer.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:727) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.common.timer.HashedWheelTimer$Worker.run(HashedWheelTimer.java:449) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	... 1 common frames omitted
+
+2021-02-22 09:55:10.025  INFO 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoPayOrders
+2021-02-22 09:55:10.073  WARN 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.order.OrderController    : getNoPayOrdersById
+
+2021-02-22 09:55:44.475  INFO 95735 --- [http-nio-8087-exec-2] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 09:55:44.495  WARN 95735 --- [http-nio-8087-exec-2] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 09:55:44.910  INFO 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoTakeOrders
+2021-02-22 09:55:44.945  WARN 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.order.OrderController    : getNoTakeOrdersById
+
+2021-02-22 09:55:45.969  INFO 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoPayOrders
+2021-02-22 09:55:45.989  WARN 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.order.OrderController    : getNoPayOrdersById->redis
+
+2021-02-22 09:55:46.773  INFO 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getOrder
+2021-02-22 09:55:46.801  WARN 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.order.OrderController    : selectOrderById
+
+2021-02-22 09:55:53.973  INFO 95735 --- [http-nio-8087-exec-10] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/pay/
+2021-02-22 09:55:54.047  WARN 95735 --- [http-nio-8087-exec-10] c.s.g.rest.modular.alipay.PayController  : pay
+
+2021-02-22 09:55:54.070  INFO 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/updateOrderStatus
+2021-02-22 09:55:54.140  WARN 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.order.OrderController    : updateOrderStatus
+
+2021-02-22 09:58:22.995  INFO 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoPayOrders
+2021-02-22 09:58:23.060  WARN 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.order.OrderController    : getNoPayOrdersById
+
+2021-02-22 09:58:25.166  INFO 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getOrder
+2021-02-22 09:58:25.191  WARN 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.order.OrderController    : selectOrderById
+
+2021-02-22 09:58:32.131  INFO 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoPayOrders
+2021-02-22 09:58:32.139  WARN 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.order.OrderController    : getNoPayOrdersById->redis
+
+2021-02-22 09:58:38.684  INFO 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getOrder
+2021-02-22 09:58:38.688  WARN 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.order.OrderController    : selectOrderById->redis
+
+2021-02-22 09:58:44.235  INFO 95735 --- [http-nio-8087-exec-2] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoPayOrders
+2021-02-22 09:58:44.242  WARN 95735 --- [http-nio-8087-exec-2] c.s.g.r.modular.order.OrderController    : getNoPayOrdersById->redis
+
+2021-02-22 09:58:46.140  INFO 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/updateOrderStatus
+2021-02-22 09:58:46.216  WARN 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.order.OrderController    : updateOrderStatus
+
+2021-02-22 09:58:47.923  INFO 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getOrder
+2021-02-22 09:58:47.937  WARN 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.order.OrderController    : selectOrderById
+
+2021-02-22 09:58:49.716  INFO 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoPayOrders
+2021-02-22 09:58:49.735  WARN 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.order.OrderController    : getNoPayOrdersById
+
+2021-02-22 09:58:51.160  INFO 95735 --- [http-nio-8087-exec-10] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getOrder
+2021-02-22 09:58:51.165  WARN 95735 --- [http-nio-8087-exec-10] c.s.g.r.modular.order.OrderController    : selectOrderById->redis
+
+2021-02-22 09:58:52.363  INFO 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/updateOrderStatus
+2021-02-22 09:58:52.422  WARN 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.order.OrderController    : updateOrderStatus
+
+2021-02-22 09:58:56.103  INFO 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoPayOrders
+2021-02-22 09:58:56.117  WARN 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.order.OrderController    : getNoPayOrdersById
+
+2021-02-22 09:58:56.901  INFO 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getOrder
+2021-02-22 09:58:56.923  WARN 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.order.OrderController    : selectOrderById
+
+2021-02-22 09:58:59.217  INFO 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/updateOrderStatus
+2021-02-22 09:58:59.259  WARN 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.order.OrderController    : updateOrderStatus
+
+2021-02-22 09:59:03.697  INFO 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoPayOrders
+2021-02-22 09:59:03.732  WARN 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.order.OrderController    : getNoPayOrdersById
+
+2021-02-22 09:59:04.672  INFO 95735 --- [http-nio-8087-exec-2] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 09:59:04.674  WARN 95735 --- [http-nio-8087-exec-2] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 10:03:59.259  INFO 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoTakeOrders
+2021-02-22 10:03:59.354  WARN 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.order.OrderController    : getNoTakeOrdersById
+
+2021-02-22 10:04:01.091  INFO 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoPayOrders
+2021-02-22 10:04:01.097  WARN 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.order.OrderController    : getNoPayOrdersById->redis
+
+2021-02-22 10:04:02.418  INFO 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getOrder
+2021-02-22 10:04:02.436  WARN 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.order.OrderController    : selectOrderById
+
+2021-02-22 10:04:08.504  INFO 95735 --- [http-nio-8087-exec-10] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/updateOrderStatus
+2021-02-22 10:04:08.738  WARN 95735 --- [http-nio-8087-exec-10] c.s.g.r.modular.order.OrderController    : updateOrderStatus
+
+2021-02-22 10:09:15.961  INFO 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/updateOrderStatus
+2021-02-22 10:09:16.081  WARN 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.order.OrderController    : updateOrderStatus
+
+2021-02-22 10:31:03.230  INFO 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoPayOrders
+2021-02-22 10:31:03.341  WARN 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.order.OrderController    : getNoPayOrdersById
+
+2021-02-22 10:31:04.779  INFO 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 10:31:04.827  WARN 95735 --- [http-nio-8087-exec-6] c.s.guns.rest.modular.bus.BusController  : getCount
+
+2021-02-22 10:31:05.660  INFO 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoTakeOrders
+2021-02-22 10:31:05.680  WARN 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.order.OrderController    : getNoTakeOrdersById
+
+2021-02-22 10:31:06.529  INFO 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getEvaluateOrders
+2021-02-22 10:31:06.558  WARN 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.order.OrderController    : getEvaluateOrders
+
+2021-02-22 10:31:07.182  INFO 95735 --- [http-nio-8087-exec-2] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getEvaluateOrders
+2021-02-22 10:31:07.189  WARN 95735 --- [http-nio-8087-exec-2] c.s.g.r.modular.order.OrderController    : getEvaluateOrdersById->redis
+
+2021-02-22 10:31:08.852  INFO 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoPayOrders
+2021-02-22 10:31:08.857  WARN 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.order.OrderController    : getNoPayOrdersById->redis
+
+2021-02-22 10:31:12.273  INFO 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 10:31:12.277  WARN 95735 --- [http-nio-8087-exec-8] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 10:31:15.750  INFO 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 10:31:15.780  WARN 95735 --- [http-nio-8087-exec-5] c.s.guns.rest.modular.bus.BusController  : getCount
+
+2021-02-22 10:31:16.624  INFO 95735 --- [http-nio-8087-exec-10] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 10:31:16.626  WARN 95735 --- [http-nio-8087-exec-10] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 10:31:17.335  INFO 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 10:31:17.336  WARN 95735 --- [http-nio-8087-exec-1] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 10:31:17.709  INFO 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 10:31:17.711  WARN 95735 --- [http-nio-8087-exec-3] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 10:31:18.344  INFO 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 10:31:18.345  WARN 95735 --- [http-nio-8087-exec-6] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 10:31:19.006  INFO 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 10:31:19.009  WARN 95735 --- [http-nio-8087-exec-4] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 10:44:38.217  INFO 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/user/logout
+2021-02-22 10:44:38.250  INFO 95735 --- [http-nio-8087-exec-7] c.s.g.rest.modular.user.UserController   : logout
+2021-02-22 12:20:58.646  INFO 95735 --- [http-nio-8087-exec-2] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/user/check
+2021-02-22 12:20:58.991  WARN 95735 --- [http-nio-8087-exec-2] c.s.g.rest.modular.user.UserController   : checkUsername
+2021-02-22 12:20:59.035  INFO 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/auth
+2021-02-22 12:20:59.353  INFO 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/user/getUserInfo
+2021-02-22 12:20:59.355  INFO 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 12:20:59.382  INFO 95735 --- [http-nio-8087-exec-8] c.s.g.rest.modular.user.UserController   : getUserById
+
+2021-02-22 12:20:59.463  WARN 95735 --- [http-nio-8087-exec-5] c.s.guns.rest.modular.bus.BusController  : getCount
+
+2021-02-22 12:21:06.481  INFO 95735 --- [http-nio-8087-exec-10] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoTakeOrders
+2021-02-22 12:21:06.691  WARN 95735 --- [http-nio-8087-exec-10] c.s.g.r.modular.order.OrderController    : getNoTakeOrdersById
+
+2021-02-22 12:22:06.950  INFO 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoTakeOrders
+2021-02-22 12:22:06.979  WARN 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.order.OrderController    : getNoTakeOrdersById->redis
+
+2021-02-22 12:22:27.870  INFO 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoTakeOrders
+2021-02-22 12:22:27.887  WARN 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.order.OrderController    : getNoTakeOrdersById->redis
+
+2021-02-22 12:22:29.667  INFO 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoPayOrders
+2021-02-22 12:22:29.707  WARN 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.order.OrderController    : getNoPayOrdersById
+
+2021-02-22 12:22:30.510  INFO 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getEvaluateOrders
+2021-02-22 12:22:30.536  WARN 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.order.OrderController    : getEvaluateOrders
+
+2021-02-22 12:22:31.151  INFO 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getEvaluateOrders
+2021-02-22 12:22:31.155  WARN 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.order.OrderController    : getEvaluateOrdersById->redis
+
+2021-02-22 12:22:35.092  INFO 95735 --- [http-nio-8087-exec-2] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 12:22:35.098  WARN 95735 --- [http-nio-8087-exec-2] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 12:22:51.060  INFO 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/user/updateInfo
+2021-02-22 12:22:51.150  INFO 95735 --- [http-nio-8087-exec-9] c.s.g.rest.modular.user.UserController   : updateUserInfo
+
+2021-02-22 12:22:51.220  INFO 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/user/getUserInfo
+2021-02-22 12:22:51.242  INFO 95735 --- [http-nio-8087-exec-8] c.s.g.rest.modular.user.UserController   : getUserById
+
+2021-02-22 15:24:55.762  INFO 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoTakeOrders
+2021-02-22 15:24:57.050  INFO 95735 --- [http-nio-8087-exec-10] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/user/check
+2021-02-22 15:24:57.264  WARN 95735 --- [http-nio-8087-exec-10] c.s.g.rest.modular.user.UserController   : checkUsername
+2021-02-22 15:24:57.282  INFO 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/auth
+2021-02-22 15:24:57.510  INFO 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/user/getUserInfo
+2021-02-22 15:24:57.532  INFO 95735 --- [http-nio-8087-exec-3] c.s.g.rest.modular.user.UserController   : getUserById
+
+2021-02-22 15:24:57.537  INFO 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/user/getUserInfo
+2021-02-22 15:24:57.641  WARN 95735 --- [http-nio-8087-exec-6] c.s.g.rest.modular.user.UserController   : getUserById->redis
+
+2021-02-22 15:24:58.872  INFO 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 15:24:59.037  WARN 95735 --- [http-nio-8087-exec-4] c.s.guns.rest.modular.bus.BusController  : getCount
+
+2021-02-22 15:26:56.832  INFO 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCountDetail
+2021-02-22 15:26:56.912  WARN 95735 --- [http-nio-8087-exec-7] c.s.guns.rest.modular.bus.BusController  : getCountDetailById
+
+2021-02-22 22:06:46.186  INFO 95735 --- [http-nio-8087-exec-2] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 22:06:46.644  WARN 95735 --- [http-nio-8087-exec-2] c.s.guns.rest.modular.bus.BusController  : getCount
+
+2021-02-22 22:06:56.110  INFO 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoTakeOrders
+2021-02-22 22:06:57.630  INFO 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/user/check
+2021-02-22 22:06:57.786  WARN 95735 --- [http-nio-8087-exec-8] c.s.g.rest.modular.user.UserController   : checkUsername
+2021-02-22 22:06:57.802  INFO 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/auth
+2021-02-22 22:06:58.156  INFO 95735 --- [http-nio-8087-exec-10] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/user/getUserInfo
+2021-02-22 22:06:58.162  INFO 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 22:06:58.177  WARN 95735 --- [http-nio-8087-exec-1] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 22:06:58.222  INFO 95735 --- [http-nio-8087-exec-10] c.s.g.rest.modular.user.UserController   : getUserById
+
+2021-02-22 22:06:59.439  INFO 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCountDetail
+2021-02-22 22:06:59.454  WARN 95735 --- [http-nio-8087-exec-3] c.s.guns.rest.modular.bus.BusController  : getCountDetailById
+
+2021-02-22 22:06:59.475  INFO 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/file/seat.json
+2021-02-22 22:07:37.910  INFO 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 22:07:37.918  WARN 95735 --- [http-nio-8087-exec-4] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 22:09:34.520  INFO 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 22:09:34.526  WARN 95735 --- [http-nio-8087-exec-7] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 22:09:35.860  INFO 95735 --- [http-nio-8087-exec-2] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCountDetail
+2021-02-22 22:09:35.864  WARN 95735 --- [http-nio-8087-exec-2] c.s.guns.rest.modular.bus.BusController  : getCountDetailById->redis
+
+2021-02-22 22:09:39.918  INFO 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/addOrder
+2021-02-22 22:09:40.511  WARN 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.order.OrderController    : addOrder
+
+2021-02-22 22:09:46.121  INFO 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/pay/
+2021-02-22 22:09:49.309 ERROR 95735 --- [http-nio-8087-exec-8] c.s.g.rest.modular.alipay.PayController  : pay
+
+
+org.apache.dubbo.rpc.RpcException: Failed to invoke the method pay in the service com.stylefeng.guns.rest.alipay.IPayService. Tried 3 times of the providers [192.168.0.106:20884] (1/1) from the registry 127.0.0.1:2181 on the consumer 192.168.0.106 using the dubbo version 2.7.4.1. Last error is: Invoke remote method timeout. method: pay, provider: dubbo://192.168.0.106:20884/com.stylefeng.guns.rest.alipay.IPayService?anyhost=true&application=guns-gateway&bean.name=ServiceBean:com.stylefeng.guns.rest.alipay.IPayService&check=false&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&interface=com.stylefeng.guns.rest.alipay.IPayService&lazy=false&methods=payBack,pay&pid=95735&qos.enable=false&register.ip=192.168.0.106&release=2.7.4.1&remote.application=guns-pay&side=consumer&sticky=false&timestamp=1613959437801, cause: org.apache.dubbo.remoting.TimeoutException: Waiting server-side response timeout by scan timer. start time: 2021-02-22 22:09:48.217, end time: 2021-02-22 22:09:49.237, client elapsed: 0 ms, server elapsed: 1020 ms, timeout: 1000 ms, request: Request [id=7812, version=2.0.2, twoway=true, event=false, broken=false, data=RpcInvocation [methodName=pay, parameterTypes=[class com.stylefeng.guns.rest.alipay.dto.PayRequset], arguments=[PayRequset(userId=4, payPassword=123456, totalMoney=8.0)], attachments={path=com.stylefeng.guns.rest.alipay.IPayService, remote.application=guns-gateway, interface=com.stylefeng.guns.rest.alipay.IPayService, version=0.0.0}]], channel: /127.0.0.1:59436 -> /127.0.0.1:7890
+	at org.apache.dubbo.rpc.cluster.support.FailoverClusterInvoker.doInvoke(FailoverClusterInvoker.java:113) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.cluster.support.AbstractClusterInvoker.invoke(AbstractClusterInvoker.java:248) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.cluster.support.wrapper.MockClusterInvoker.invoke(MockClusterInvoker.java:78) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.proxy.InvokerInvocationHandler.invoke(InvokerInvocationHandler.java:55) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.common.bytecode.proxy0.pay(proxy0.java) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at com.stylefeng.guns.rest.modular.alipay.PayController.pay(PayController.java:71) ~[classes/:na]
+	at com.stylefeng.guns.rest.modular.alipay.PayController$$FastClassBySpringCGLIB$$5f776c55.invoke(<generated>) [classes/:na]
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204) [spring-core-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:747) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at com.alibaba.csp.sentinel.annotation.aspectj.SentinelResourceAspect.invokeResourceWithSentinel(SentinelResourceAspect.java:57) [sentinel-annotation-aspectj-1.7.0.jar:na]
+	at sun.reflect.GeneratedMethodAccessor161.invoke(Unknown Source) ~[na:na]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_271]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_271]
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:644) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:633) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:70) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:174) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:92) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:185) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:689) [spring-aop-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at com.stylefeng.guns.rest.modular.alipay.PayController$$EnhancerBySpringCGLIB$$fc52cb17.pay(<generated>) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_271]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_271]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_271]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_271]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102) [spring-webmvc-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:877) [spring-webmvc-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:783) [spring-webmvc-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) [spring-webmvc-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991) [spring-webmvc-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925) [spring-webmvc-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974) [spring-webmvc-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:877) [spring-webmvc-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851) [spring-webmvc-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) [tomcat-embed-websocket-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at com.stylefeng.guns.rest.modular.auth.filter.AuthFilter.doFilterInternal(AuthFilter.java:138) [classes/:na]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at com.alibaba.csp.sentinel.adapter.servlet.CommonFilter.doFilter(CommonFilter.java:110) [sentinel-web-servlet-1.7.0.jar:na]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:496) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_271]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.5.29.jar:8.5.29]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_271]
+Caused by: java.util.concurrent.ExecutionException: org.apache.dubbo.remoting.TimeoutException: Waiting server-side response timeout by scan timer. start time: 2021-02-22 22:09:48.217, end time: 2021-02-22 22:09:49.237, client elapsed: 0 ms, server elapsed: 1020 ms, timeout: 1000 ms, request: Request [id=7812, version=2.0.2, twoway=true, event=false, broken=false, data=RpcInvocation [methodName=pay, parameterTypes=[class com.stylefeng.guns.rest.alipay.dto.PayRequset], arguments=[PayRequset(userId=4, payPassword=123456, totalMoney=8.0)], attachments={path=com.stylefeng.guns.rest.alipay.IPayService, remote.application=guns-gateway, interface=com.stylefeng.guns.rest.alipay.IPayService, version=0.0.0}]], channel: /127.0.0.1:59436 -> /127.0.0.1:7890
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:357) ~[na:1.8.0_271]
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1928) ~[na:1.8.0_271]
+	at org.apache.dubbo.rpc.protocol.AsyncToSyncInvoker.invoke(AsyncToSyncInvoker.java:56) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.listener.ListenerInvokerWrapper.invoke(ListenerInvokerWrapper.java:78) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.monitor.support.MonitorFilter.invoke(MonitorFilter.java:92) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.protocol.dubbo.filter.FutureFilter.invoke(FutureFilter.java:54) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.filter.ConsumerContextFilter.invoke(ConsumerContextFilter.java:60) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$CallbackRegistrationInvoker.invoke(ProtocolFilterWrapper.java:157) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.protocol.InvokerWrapper.invoke(InvokerWrapper.java:56) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.rpc.cluster.support.FailoverClusterInvoker.doInvoke(FailoverClusterInvoker.java:82) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	... 83 common frames omitted
+Caused by: org.apache.dubbo.remoting.TimeoutException: Waiting server-side response timeout by scan timer. start time: 2021-02-22 22:09:48.217, end time: 2021-02-22 22:09:49.237, client elapsed: 0 ms, server elapsed: 1020 ms, timeout: 1000 ms, request: Request [id=7812, version=2.0.2, twoway=true, event=false, broken=false, data=RpcInvocation [methodName=pay, parameterTypes=[class com.stylefeng.guns.rest.alipay.dto.PayRequset], arguments=[PayRequset(userId=4, payPassword=123456, totalMoney=8.0)], attachments={path=com.stylefeng.guns.rest.alipay.IPayService, remote.application=guns-gateway, interface=com.stylefeng.guns.rest.alipay.IPayService, version=0.0.0}]], channel: /127.0.0.1:59436 -> /127.0.0.1:7890
+	at org.apache.dubbo.remoting.exchange.support.DefaultFuture.doReceived(DefaultFuture.java:189) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.remoting.exchange.support.DefaultFuture.received(DefaultFuture.java:153) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.remoting.exchange.support.DefaultFuture$TimeoutCheckTask.run(DefaultFuture.java:258) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.common.timer.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:648) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.common.timer.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:727) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	at org.apache.dubbo.common.timer.HashedWheelTimer$Worker.run(HashedWheelTimer.java:449) ~[dubbo-2.7.4.1.jar:2.7.4.1]
+	... 1 common frames omitted
+
+2021-02-22 22:10:06.443  INFO 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getOrder
+2021-02-22 22:10:06.602  WARN 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.order.OrderController    : selectOrderById
+
+2021-02-22 22:10:11.141  INFO 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCountDetail
+2021-02-22 22:10:11.177  WARN 95735 --- [http-nio-8087-exec-1] c.s.guns.rest.modular.bus.BusController  : getCountDetailById
+
+2021-02-22 22:10:13.000  INFO 95735 --- [http-nio-8087-exec-10] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 22:10:13.003  WARN 95735 --- [http-nio-8087-exec-10] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 22:10:14.519  INFO 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoTakeOrders
+2021-02-22 22:10:14.570  WARN 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.order.OrderController    : getNoTakeOrdersById
+
+2021-02-22 22:10:15.711  INFO 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoPayOrders
+2021-02-22 22:10:15.772  WARN 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.order.OrderController    : getNoPayOrdersById
+
+2021-02-22 22:10:16.466  INFO 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getEvaluateOrders
+2021-02-22 22:10:16.486  WARN 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.order.OrderController    : getEvaluateOrders
+
+2021-02-22 22:10:17.086  INFO 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getEvaluateOrders
+2021-02-22 22:10:17.091  WARN 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.order.OrderController    : getEvaluateOrdersById->redis
+
+2021-02-22 22:10:21.256  INFO 95735 --- [http-nio-8087-exec-2] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getOrder
+2021-02-22 22:10:21.260  WARN 95735 --- [http-nio-8087-exec-2] c.s.g.r.modular.order.OrderController    : selectOrderById->redis
+
+2021-02-22 22:10:23.370  INFO 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoPayOrders
+2021-02-22 22:10:23.381  WARN 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.order.OrderController    : getNoPayOrdersById->redis
+
+2021-02-22 22:14:40.200  INFO 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/updateOrderStatus
+2021-02-22 22:14:40.507  WARN 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.order.OrderController    : updateOrderStatus
+
+2021-02-22 22:36:22.438  INFO 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 22:36:23.005  WARN 95735 --- [http-nio-8087-exec-5] c.s.guns.rest.modular.bus.BusController  : getCount
+
+2021-02-22 22:36:23.993  INFO 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 22:36:24.013  WARN 95735 --- [http-nio-8087-exec-1] c.s.guns.rest.modular.bus.BusController  : getCount
+
+2021-02-22 22:36:28.565  INFO 95735 --- [http-nio-8087-exec-10] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 22:36:28.568  WARN 95735 --- [http-nio-8087-exec-10] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 22:36:30.524  INFO 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 22:36:30.525  WARN 95735 --- [http-nio-8087-exec-3] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 22:42:14.081  INFO 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/bus/getCount
+2021-02-22 22:42:14.129  WARN 95735 --- [http-nio-8087-exec-6] c.s.guns.rest.modular.bus.BusController  : getCount->redis
+
+2021-02-22 22:42:22.486  INFO 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoTakeOrders
+2021-02-22 22:42:22.625  WARN 95735 --- [http-nio-8087-exec-4] c.s.g.r.modular.order.OrderController    : getNoTakeOrdersById
+
+2021-02-22 22:42:30.004  INFO 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoPayOrders
+2021-02-22 22:42:30.061  WARN 95735 --- [http-nio-8087-exec-7] c.s.g.r.modular.order.OrderController    : getNoPayOrdersById
+
+2021-02-22 22:42:32.261  INFO 95735 --- [http-nio-8087-exec-2] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getOrder
+2021-02-22 22:42:32.280  WARN 95735 --- [http-nio-8087-exec-2] c.s.g.r.modular.order.OrderController    : selectOrderById
+
+2021-02-22 22:42:32.329  INFO 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/updateOrderStatus
+2021-02-22 22:42:32.536  WARN 95735 --- [http-nio-8087-exec-9] c.s.g.r.modular.order.OrderController    : updateOrderStatus
+
+2021-02-22 22:42:34.812  INFO 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoPayOrders
+2021-02-22 22:42:34.837  WARN 95735 --- [http-nio-8087-exec-8] c.s.g.r.modular.order.OrderController    : getNoPayOrdersById
+
+2021-02-22 22:42:36.376  INFO 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getNoTakeOrders
+2021-02-22 22:42:36.398  WARN 95735 --- [http-nio-8087-exec-5] c.s.g.r.modular.order.OrderController    : getNoTakeOrdersById
+
+2021-02-22 22:44:23.885  INFO 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getEvaluateOrders
+2021-02-22 22:44:23.962  WARN 95735 --- [http-nio-8087-exec-1] c.s.g.r.modular.order.OrderController    : getEvaluateOrders
+
+2021-02-22 22:44:29.950  INFO 95735 --- [http-nio-8087-exec-10] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getEvaluateOrders
+2021-02-22 22:44:29.959  WARN 95735 --- [http-nio-8087-exec-10] c.s.g.r.modular.order.OrderController    : getEvaluateOrdersById->redis
+
+2021-02-22 22:55:15.305  INFO 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/getOrder
+2021-02-22 22:55:15.418  WARN 95735 --- [http-nio-8087-exec-3] c.s.g.r.modular.order.OrderController    : selectOrderById
+
+2021-02-22 22:55:15.491  INFO 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.auth.filter.AuthFilter   : 当前url：/order/updateOrderStatus
+2021-02-22 22:55:15.620  WARN 95735 --- [http-nio-8087-exec-6] c.s.g.r.modular.order.OrderController    : updateOrderStatus
+

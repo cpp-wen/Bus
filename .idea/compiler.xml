@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="guns-gateway" />
+        <module name="guns-api" />
+        <module name="guns-bus" />
+        <module name="guns-order" />
+        <module name="guns-user" />
+        <module name="guns-core" />
+        <module name="guns-pay" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="guns-api" target="1.8" />
+      <module name="guns-bus" target="1.8" />
+      <module name="guns-core" target="1.8" />
+      <module name="guns-gateway" target="1.8" />
+      <module name="guns-order" target="1.8" />
+      <module name="guns-parent" target="1.8" />
+      <module name="guns-pay" target="1.8" />
+      <module name="guns-user" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="guns-api" options="-parameters" />
+      <module name="guns-bus" options="-parameters" />
+      <module name="guns-core" options="-parameters" />
+      <module name="guns-gateway" options="-parameters" />
+      <module name="guns-order" options="-parameters" />
+      <module name="guns-pay" options="-parameters" />
+      <module name="guns-user" options="-parameters" />
+    </option>
+  </component>
+</project>
