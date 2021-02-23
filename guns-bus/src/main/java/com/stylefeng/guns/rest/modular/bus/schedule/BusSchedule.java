@@ -30,9 +30,9 @@ public class BusSchedule {
     }
 
     /**
-     * 每天凌晨0点1分执行
+     * 每天九点十四执行
      */
-    @Scheduled(cron = "0 2 0 * * ? ")
+    @Scheduled(cron = "0 14 9 * * ? ")
     private void addCounts(){
         log.warn("addCounts执行");
         busService.addCounts();
